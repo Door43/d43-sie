@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sie:home|Door43 (sie)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sie|d43-sie repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sie/archive/master.zip|d43-sie.zip]]
+
+**Recent Changes**
+{{changes>ns = sie}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sie|Ethnologue data]]
+
